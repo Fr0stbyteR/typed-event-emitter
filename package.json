@@ -1,0 +1,27 @@
+{
+  "name": "@shren/typed-event-emitter",
+  "version": "1.0.0",
+  "description": "Event emitter with a typed map",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fr0stbyter/typed-event-emitter.git"
+  },
+  "keywords": [
+    "event",
+    "typescript"
+  ],
+  "author": "Fr0stbyteR",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/fr0stbyter/typed-event-emitter/issues"
+  },
+  "homepage": "https://github.com/fr0stbyter/typed-event-emitter#readme",
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  }
+}
