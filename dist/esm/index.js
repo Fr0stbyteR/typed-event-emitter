@@ -1,6 +1,4 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-class TypedEventEmitter {
+export default class TypedEventEmitter {
     constructor() {
         this._listeners = {};
     }
@@ -66,5 +64,4 @@ class TypedEventEmitter {
         return this._listeners[eventName].length;
     }
 }
-exports.default = TypedEventEmitter;
 //# sourceMappingURL=index.js.map

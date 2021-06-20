@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "noImplicitAny": true,
-    "module": "umd",
+    "module": "commonjs",
     "removeComments": true,
     "preserveConstEnums": true,
     "target": "es2017",
