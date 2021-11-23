@@ -16,12 +16,12 @@
     "typescript"
   ],
   "author": "Fr0stbyteR",
-  "license": "GPL-3.0-or-later",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/fr0stbyter/typed-event-emitter/issues"
   },
   "homepage": "https://github.com/fr0stbyter/typed-event-emitter#readme",
   "devDependencies": {
-    "typescript": "^4.3.2"
+    "typescript": "^4.5.2"
   }
 }

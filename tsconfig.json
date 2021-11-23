@@ -3,11 +3,9 @@
     "noImplicitAny": true,
     "module": "commonjs",
     "removeComments": true,
-    "preserveConstEnums": true,
     "target": "es2017",
     "sourceMap": true,
     "lib": ["esnext"],
-    "jsx": "react",
     "outDir": "dist",
     "noUnusedLocals": false,
     "noImplicitReturns": true,
@@ -17,8 +15,6 @@
     "pretty": true,
     "noFallthroughCasesInSwitch": true,
     "allowUnreachableCode": false,
-    "experimentalDecorators": true,
-    "downlevelIteration": true,
     "declaration": true
   },
   "include": [
